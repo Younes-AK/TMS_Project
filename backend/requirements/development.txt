@@ -1,0 +1,12 @@
+
+-r base.txt
+
+ipython
+django-extensions
+
+
+django-debug-toolbar
+
+black
+flake8
+isort
