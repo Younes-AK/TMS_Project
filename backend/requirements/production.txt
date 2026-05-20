@@ -1,9 +1,0 @@
-
-
--r base.txt
-
-gunicorn
-
-whitenoise
-
-django-environ
